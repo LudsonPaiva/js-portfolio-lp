@@ -26,3 +26,4 @@ Currículo online com HTML, CSS e JavaScript: Da Prototipação so Deploy
     -- Fazendo o fork do repositório
     -- Consumindo dados do profile
     -- Tagueando as informações de perfil
+    -- Preenchendo dados de perfil
