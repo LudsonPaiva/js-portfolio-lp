@@ -1,0 +1,27 @@
+
+Figma: https://www.figma.com/design/g6zA6klLrCWZAp76tzoVJZ/Portfolio---EDUCATION?node-id=0-1&p=f&t=SpQUqoiOcEBnUhsq-0
+
+Currículo online com HTML, CSS e JavaScript: Da Prototipação so Deploy
+
+1) Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript
+    -- Introdução
+    -- Ambiente e pré-requisitos
+    -- Iniciando o projeto e adicionando o normalize CSS
+    -- Optimização de Imagens
+    -- Adicionando o conteúdo do header no HTML
+    -- Estilos Gerais e Fontes
+    -- Adição dos Ícones
+    -- Adição do background
+    -- Adicionando Responsividade ao nosso Layout
+    -- Desenvolvendo a estrutura do acordeon
+    -- Adicionando animações no acordeon
+    -- Estilizando a listagem dos idiomas
+    -- Estilizando o portfolio -->> 09:21
+    -- Enriquecendo os Links de telefone e e-mail
+    -- Adicionando as experiências profissionais
+    -- Adicionando as nossas habilidades
+
+2) Publicando Seu Portfólio Profissional no GitHub Pages
+    -- Introdução a obtenção de dados
+    -- Fazendo o fork do repositório
+    -- Consumindo dados do profile
