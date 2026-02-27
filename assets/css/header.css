@@ -63,7 +63,7 @@ Position Absolute: fica fixo ao pai dele que é relativo
     background-image: url(/assets/img/icons/job.svg);
 }
 .information .location::before {
-    background-image: url(/assets/img/icons/job.svg);
+    background-image: url(/assets/img/icons/location.svg);
 }
 .information .email::before {
     background-image: url(/assets/img/icons/email.svg);
