@@ -28,4 +28,4 @@ Currículo online com HTML, CSS e JavaScript: Da Prototipação so Deploy
     -- Tagueando as informações de perfil
     -- Preenchendo dados de perfil
     -- Preenchendo dados de soft skills
-    -- 
+    -- Preenchendo dados de hard skills
