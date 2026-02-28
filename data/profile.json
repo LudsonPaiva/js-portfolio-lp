@@ -40,13 +40,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desenvolvimento de aplicação em javaScript: Pokedex",
+      "url": "https://github.com/LudsonPaiva/pokedexDesafio.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Desenvolvimento aplicação frontend em HTML & CSS: Site HBO",
+      "url": "https://github.com/LudsonPaiva/trilhaCSSDesafio5_HBOMax.git",
+      "github": true
+    },
+    {
+      "name": "Desenvolvimento aplicação backend em Python: Disparador de e-mail",
+      "url": "https://github.com/LudsonPaiva/disparador_de_email.git",
       "github": true
     }
   ],
