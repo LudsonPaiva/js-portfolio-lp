@@ -51,6 +51,23 @@ function updatePortfolio(profileData) {
     }).join('')
 }
 
+function updateProfessionalExperience(profileData) {
+    const professionalExperience = document.getElementById('profile.professionalExperience')
+    professionalExperience.innerHTML = profileData.professionalExperience.map(professionalExperience => {
+        return `
+            <li>
+                <h3 class="title">${professionalExperience.name}</h3>
+                <span class="period">${professionalExperience.period}</span>
+                <p>
+                    ${professionalExperience.description}
+                </p>
+            <li/>
+        `
+    }
+
+    )
+}
+
 (async () => {
     const profileData = await  fetchProfileData()
     updateProfileInfo(profileData)
@@ -58,4 +75,5 @@ function updatePortfolio(profileData) {
     updateHardSkills(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
+    updateProfessionalExperience(profileData)
 })() // arrow função imediatamente invocada
