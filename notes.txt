@@ -32,3 +32,4 @@ Currículo online com HTML, CSS e JavaScript: Da Prototipação so Deploy
     -- Preenchendo dados de idiomas
     -- Preenchendo dados de Portfolio
     -- Preenchendo dados de Experiências Profissionais
+    -- Configurando o github pages ==>> 4:14
